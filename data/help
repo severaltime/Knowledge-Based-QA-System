@@ -1,0 +1,7 @@
+# 数据集：
+（1）QA_system_stop_words.txt 停用词
+（2）QA_system_train.txt 训练数据集
+（3）QA_system_test.txt 测试数据集
+（4）QA_system_knowledge.txt 背景知识库
+（5）sim_train.pickle 背景库与训练数据集生成的相似度矩阵
+（6）sim_test.pickle 背景库与测试数据集生成的相似度矩阵
