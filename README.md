@@ -1,0 +1,2 @@
+# Knowledge-Based-QA-System
+基于LSA模型和相似度计算根据题目题干抽取背景知识库的相关知识，训练BiLSTM深度神经网络找出四个备选选项中的最佳者
